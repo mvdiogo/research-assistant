@@ -1,0 +1,11 @@
+__pycache__/
+.cache
+docs/_build/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+

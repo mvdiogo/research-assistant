@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+duckduckgo_search==4.4
+fastapi==0.109.0
+langchain-community==0.0.16
+langchain-core==0.1.17
+langserve==0.0.41
+pydantic==2.6.0
+requests==2.31.0
+sse_starlette==2.0.0
