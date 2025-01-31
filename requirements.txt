@@ -7,3 +7,4 @@ langserve==0.0.41
 pydantic==2.6.0
 requests==2.31.0
 sse_starlette==2.0.0
+httpx==0.24.1
