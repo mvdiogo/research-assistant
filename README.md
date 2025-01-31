@@ -63,16 +63,16 @@ To get started with Research Assistant, follow these steps:
 
    [Models](https://ollama.ai/library)
 
-2. If you choose llama2, install the model:
+2. If you choose llama3.1:latest, install the model:
 
    ```bash   
-   ollama run llama2
+   ollama run llama3.1:latest
    ```
 
 3. On the app.py file change the model:
 
    ```
-   model = 'llama2'
+   model = 'llama3.1:latest'
    ```
 
 4. Initialize the app.py program by running the following command line:
