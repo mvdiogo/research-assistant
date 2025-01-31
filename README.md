@@ -1,5 +1,7 @@
 # Research Assistant
 
+<img src="researchassistant.png" alt="Alt Text" width="600" height="300">
+
 ## Overview
 
 Research Assistant is a powerful tool that leverages the capabilities of LangChain, DuckDuckHub, and Ollama to streamline the research process. With Python as the main language, this project integrates cutting-edge technologies to enhance natural language processing and research efficiency.
